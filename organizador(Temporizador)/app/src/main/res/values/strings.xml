@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Organizador</string>
+    <string name="titulo">Organizador de tareas</string>
+    <string name="leyenda">Ingrese la cantidad de tiempo</string>
+    <string name="btn_contar">Empezar</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
